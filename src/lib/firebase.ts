@@ -8,7 +8,7 @@ import { FirebaseStorage } from 'firebase/storage';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "your-apikey",
+  apiKey: "AIzaSyDHPaui6Ut_5_Z8ou9-zcN1_EANKnfihA8",
   authDomain: "wedding-planner-4468a.firebaseapp.com",
   projectId: "wedding-planner-4468a",
   storageBucket: "wedding-planner-4468a.appspot.com",
